@@ -57,9 +57,3 @@ These challenges pushed us toward exploring regression and integrating chemical 
 - Work toward publishing findings to benefit the wider scientific community.  
 
 ---
-
----
-
-## 📸 Project Workflow
-<img src="assets/project_overview.png" alt="Project workflow diagram" width="100%">
-
