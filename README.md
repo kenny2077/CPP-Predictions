@@ -7,6 +7,7 @@ This project was motivated by the urgent need for new therapies and by the scien
 Cyclic peptides are promising because they are stable, selective, and can target "undruggable" proteins. Yet, one major barrier is **cell permeability** — whether a peptide can cross a cell membrane and actually reach its target.  
 
 Experimental permeability testing is costly and slow. A reliable computational model could accelerate drug discovery, save resources, and expand treatment options for conditions ranging from infections to cancer.  
+
 Our research contributes to this vision by optimizing **Transformer-based models** for peptide permeability prediction, offering a tool that can support scientists in identifying the most promising molecules.
 
 ---
