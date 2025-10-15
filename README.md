@@ -44,7 +44,7 @@ Our work sets itself apart by:
 
 ## Accomplishments We Are Proud Of
 - Built and compared six deep learning models for cyclic peptide permeability prediction.  
-- Build regression models to help increase prediction accuracy from 80% to 87%
+- Build regression models to help increase prediction accuracy from **80% to 87%**
 - Gained deeper understanding of both biological complexity and computational limitations.  
 ---
 
