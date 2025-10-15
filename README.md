@@ -40,7 +40,6 @@ Our work sets itself apart by:
 ## Challenges We Ran Into
 - **Limited dataset size** made it difficult for large models to generalize.  
 - **Unusual test performance** (test accuracy ~90% vs train/val ~60%) revealed potential dataset distribution issues.
-- 
 ---
 
 ## Accomplishments We Are Proud Of
