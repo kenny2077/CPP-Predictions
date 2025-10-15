@@ -41,7 +41,6 @@ Our work sets itself apart by:
 - **Limited dataset size** made it difficult for large models to generalize.  
 - **Unusual test performance** (test accuracy ~90% vs train/val ~60%) revealed potential dataset distribution issues.
 - 
-These challenges pushed us toward exploring regression and integrating chemical structure into the models.
 ---
 
 ## Accomplishments We Are Proud Of
