@@ -42,20 +42,16 @@ Our work sets itself apart by:
 - **Unusual test performance** (test accuracy ~90% vs train/val ~60%) revealed potential dataset distribution issues.
 - 
 These challenges pushed us toward exploring regression and integrating chemical structure into the models.
-
 ---
 
 ## Accomplishments We Are Proud Of
 - Built and compared six deep learning models for cyclic peptide permeability prediction.  
-- Identified regression as a promising alternative to binary classification.  
-- Established a collaborative bridge between **Computer Science and Chemistry departments**.  
+- Build regression models to help increase prediction accuracy from 80% to 87%
 - Gained deeper understanding of both biological complexity and computational limitations.  
-
 ---
 
 ## Future Directions
 - Enlarge dataset by incorporating external peptide libraries.  
 - Develop regression models for more interpretable predictions.  
 - Work toward publishing findings to benefit the wider scientific community.  
-
 ---
